@@ -3,4 +3,4 @@ class Dog
   
   @@all = []
   
-  def in
+  def initialize
