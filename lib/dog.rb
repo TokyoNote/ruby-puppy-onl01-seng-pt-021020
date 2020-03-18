@@ -8,4 +8,5 @@ class Dog
     
   end
   
-  def self.
+  def self.all
+    
