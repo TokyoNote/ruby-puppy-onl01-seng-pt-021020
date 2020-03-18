@@ -8,4 +8,4 @@ class Dog
     
   end
   
-  
+  def self.
